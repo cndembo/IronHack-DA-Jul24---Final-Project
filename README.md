@@ -9,6 +9,10 @@ The aim of this code is to mimic the intelligent system that segregates clients 
 
 This feature intends to reduce the manual efforts of analysis and accelerate the credit feedback to clients.
 
+To execute the script, in "Anaconda command line" run "python main.py".
+
+Attention: For a smooth execution, make it available in advance the files "cscore_train.csv" and "test.csv", on the executing folder!
+
 Presentation link:
 https://docs.google.com/presentation/d/1b6RZDpoRqYBk1Hd-6VEiwPhxO7wH7IeAqLXRgG-gt6Y/edit?usp=sharing
 
